@@ -28,8 +28,10 @@ tables|2
 lists|1
 ## Product Rollout
 ### Release 1
-iframes, background image and lists
+iframes, background image and lists. Release 1 total difficulty points 4
 ### Release 2 
-footer and tables
+footer and tables. Release 2 total difficulty points 5
 ### Release 3
-form
+form. Release 3 total difficulty points 3
+### Final Total
+Product Release total difficulty points 12
