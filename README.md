@@ -20,18 +20,20 @@ useful links
 # Scope Challenge
 Feature|Difficulty
 ---|---
+main page|1
+nav bar|2
 iframes|2
 background images|1
-footer|3
+footer|1
 form|3
-tables|2
+tables|1
 lists|1
 ## Product Rollout
 ### Release 1
-iframes, background image and lists. Release 1 total difficulty points 4
+iframes, background image and main pag. Release 1 total difficulty points 4
 ### Release 2 
-footer and tables. Release 2 total difficulty points 5
+footer and tables lists. Release 2 total difficulty points 3
 ### Release 3
-form. Release 3 total difficulty points 3
+form, nav bar. Release 3 total difficulty points 5
 ### Final Total
 Product Release total difficulty points 12
