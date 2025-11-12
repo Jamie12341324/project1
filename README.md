@@ -10,13 +10,36 @@ Public voting on how many people agree with something|4|1|5
 # Business goals
 Promot your website and brand to sell products and host relevent adverts
 Use meta tag and semantics to help with search engine optimization
-Accessable with alt tags 
+Accessable with alt tags. The value the website owner gains is to 
+sell monster related merchandice (t-shirts, pencils, notebook, rubbers, artwork nf films) 
+call to action (request your order with a order number for each product on a order form)
 # User needs
 To get the information that they want
 For the information to be clear
 sign up
 informed about new products
 useful links 
+Who are th users?
+Children interrested in monster films
+What are the Users' needs?
+Links to websites about cinemas and age ratings
+# User Stories
+1. As parent with a child that is interrested in monsters I want to know what age ratingings
+there on monster films so that  ican decide if I want to take my child to see a monster film
+2. As a teacher that wants to start a film club I want to know how much a monster film cd costs
+so I cand ecide what films I might put on in a film club
+3.As a child who wants to watch monster films I want to go to a cinema website so
+I can reserve my spot at a cinema to watch a film
+4. As a monster film maker I want to know about the stats of different monsters so I
+5. can promote my film and write accurate books
+# Acceptance criteria
+1. The shop page displays a list of testimonials
+2. The shop page displasys a star rating
+3. The testimonials section is reposnisve and looks good on multiple devices
+# Tasks
+1. write a html unordered list for the testimonials
+2. Write some font awesome links to use star icons in the review star ratings
+3. Use Bootstrap's grid system to make sure the testimonials section is responsive
 # Scope Challenge
 Feature|Difficulty
 ---|---
