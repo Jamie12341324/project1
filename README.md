@@ -77,3 +77,7 @@ Product Release total difficulty points 12
 * [Aaron Fraser-Nash musical video from youtube on King Ghidorah](https://www.youtube.com/watch?v=S_mnlCuDljI)
 * [Aaron Fraser-Nash musical video from youtube on Rodan](https://www.youtube.com/watch?v=mkoaxHTHzgg)
 # Testing
+# problem 1
+The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
+link from bootstrap that goes at the end of your code just before the closing body tag.
+![image of navbar button having dropped down like it is meant to](/assets/images/images-for-readme/error1.jpg "navbar button")
