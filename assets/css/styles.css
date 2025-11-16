@@ -1,3 +1,24 @@
+:root{
+    --background-color1:#212529;
+    --text-color1:white;
+}
+.background1{
+    background-color: var(--background-color1);
+    color:var(--text-color1);
+}
 .sub-heading-color{
     color:blue;
+}
+#section{
+    padding-top:4rem;
+}
+#home-page-back-img{
+    background-image:url(../images/images-for-html/rodan-znintsr46vlv41u1.jpg);
+}
+.padding1{
+    padding-top: 4rem;
+    color:var(--text-color1);
+}
+.white-text{
+    color:var(--text-color1);
 }

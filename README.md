@@ -72,12 +72,24 @@ Product Release total difficulty points 12
 # External sources
 # From bootstrap
 * [Bootstrap screen sizes for grid options](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+# From Font Awesome
+* [instagram icon from Font Awesome](https://fontawesome.com/icons/instagram?f=brands&s=solid)
+* [facebook icon from Font Awesome](https://fontawesome.com/icons/facebook?f=brands&s=solid)
+* [x icon from Font Awesome](https://fontawesome.com/icons/square-twitter?f=brands&s=solid)
 # From youtube
 * [NerdOut! musical video from youtube on Godzilla](https://www.youtube.com/watch?v=okMyRuVLVl0)
 * [Aaron Fraser-Nash musical video from youtube on King Ghidorah](https://www.youtube.com/watch?v=S_mnlCuDljI)
 * [Aaron Fraser-Nash musical video from youtube on Rodan](https://www.youtube.com/watch?v=mkoaxHTHzgg)
+# From Wallpapers.com
+* [Godzilla ocean image](https://wallpapers.com/wallpapers/godzilla-4k-ocean-j4mrrzqjy9vdfhxf.html)
+* [Godzilla city image](https://wallpapers.com/wallpapers/godzilla-dominance-over-cityscape-igsni1rq48nf7yjv.html)
+* [4 Titans image](https://wallpapers.com/wallpapers/rodan-znintsr46vlv41u1.html)
+* [Rodan image](https://wallpapers.com/wallpapers/rodan-1280-x-882-mkjzoe6324kfao20.html)
+# From AI copilot
+* [link to AI chatbot that I used for finding the hex code for the dark navbar theme so I could color match it with the footer](https://copilot.microsoft.com/)
 # Testing
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
 link from bootstrap that goes at the end of your code just before the closing body tag.
-![image of navbar button having dropped down like it is meant to](/assets/images/images-for-readme/error1.jpg "navbar button")
+---
+![image of navbar button having dropped down like it is meant to](assets/images/images-for-readme/error1.PNG "navbar button")
