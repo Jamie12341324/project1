@@ -32,6 +32,17 @@
     padding-top: 4rem;
     color:var(--text-color1);
 }
+.padding2{
+    padding-top: 10rem;
+    color:var(--text-color1);
+}
+.padding3{
+    padding:4rem;
+}
 .white-text{
     color:var(--text-color1);
+}
+header{
+    position: fixed;
+    width:100%;
 }
