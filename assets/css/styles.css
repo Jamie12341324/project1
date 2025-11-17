@@ -45,6 +45,14 @@
     background-color: white;
     color:var(--text-color2);
 }
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    text-decoration: none;
+    color:var(--text-color2);
+}
 .padding1{
     padding-top: 4rem;
     color:var(--text-color1);
