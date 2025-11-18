@@ -107,3 +107,30 @@ The navbar button wasn't working and when you click on it nothing happens the is
 link from bootstrap that goes at the end of your code just before the closing body tag.
 ---
 ![image of navbar button having dropped down like it is meant to](assets/images/images-for-readme/error1.PNG "navbar button")
+The issue here was the navbar appears on the side of the screen instead of the top to fix this I added the fixed-top class to the
+nav tag
+---
+![image of side navbar](assets/images/images-for-readme/error2.PNG)
+Here you can see the newer version with the navbar at the top
+---
+![image of fixed top navbar](assets/images/images-for-readme/error3.PNG)
+Orignally the red background was on top of the footer so it looked like part of the footer was missing
+if I remember correctly I fixed this problem by adding the fixed-bottom class to the footer
+---
+![fixed footer](assets/images/images-for-readme/error4.PNG)
+This is a failed attempt to fix the same problem
+---
+![broken footer](assets/images/images-for-readme/error5.PNG)
+This is a image of a fixed url that had ../assets at the start instead of ../images
+---
+![fixed url](assets/images/images-for-readme/error6.PNG)
+For a while when I was trying to use an iframe to embed a youtube video I got an error 153
+however when you look at the page from github as a deployed site the video/iframe works
+![working video](assets/images/images-for-readme/error7.PNG)
+![](assets/images/images-for-readme/error8.PNG)
+![](assets/images/images-for-readme/error9.PNG)
+![](assets/images/images-for-readme/error10.PNG)
+![](assets/images/images-for-readme/error11.PNG)
+![](assets/images/images-for-readme/error12.PNG)
+![](assets/images/images-for-readme/error13.PNG)
+![](assets/images/images-for-readme/error14.PNG)
