@@ -57,7 +57,7 @@ can promote my film and write accurate books
 4. User story 1 The homepage features symbols for age ratings and what they mean
 5. User story 1 A list of films that are available with the relevent age ratings
 6. User story 1 Each official age rating symbol is matched with a monster at the stage of its life that represents the age of the people who are allowed to see it.
-# Task
+# Tasks
 1. User story 4 Make a table of information about fictional monsters
 2. User story 3 Make a form for booking films to watch
 3. User story 3 Make a table using html tags to show different prices
@@ -95,11 +95,11 @@ tables stack on top of eachother using a boostrap grid system
 because I only seemed to be able to download one file even though there were 5 so I had to move each one to the top
 of the list before exporting it. Later markdown was unable to show any of my PDFs so I used snipping tool to get the wireframe
 images that I actually used in my readme file which the links to are below 
-* [Wireframe Small Page](assets/images/images-for-readme/Small-wireframe.PNG)
-* [Wireframe Medium Page](assets/images/images-for-readme/Medium-wireframe.PNG)
-* [Wireframe Large Page](assets/images/images-for-readme/Large-wireframe.PNG)
-* [Wireframe Extra Large page](assets/images/images-for-readme/Extra-Large-wireframe.PNG)
-* [Wireframe home page](assets/images/images-for-readme/Home-wireframe.PNG)
+* ![Wireframe Small Page](assets/images/images-for-readme/Small-wireframe.PNG)
+* ![Wireframe Medium Page](assets/images/images-for-readme/Medium-wireframe.PNG)
+* ![Wireframe Large Page](assets/images/images-for-readme/Large-wireframe.PNG)
+* ![Wireframe Extra Large page](assets/images/images-for-readme/Extra-Large-wireframe.PNG)
+* ![Wireframe home page](assets/images/images-for-readme/Home-wireframe.PNG)
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
 # External sources
 # From bootstrap
@@ -206,3 +206,7 @@ text the text goes black so you can still see it) thi might be because I had som
 that were pretty much the same and the bootstrap was overwriting the button tag class but not the a tag so things only 
 chnaged while you hover over the a tag which just has text
 ![a and button tags in the right order](assets/images/images-for-readme/error15.PNG)
+---
+Deployment
+explain that you delpoyed to github page
+how to make a clone fork
