@@ -40,6 +40,7 @@ so I can decide what films I might put on in a film club
 I can reserve my spot at a cinema to watch a film
 4. As a monster film maker I want to know about the stats of different monsters so I
 can promote my film and write accurate books
+# These are my orignal acceptance criteria and tasks
 # Acceptance criteria
 1. The shop page displays a list of testimonials
 2. The shop page displays a star rating
@@ -48,6 +49,21 @@ can promote my film and write accurate books
 1. write a html unordered list for the testimonials
 2. Write some font awesome links to use star icons in the review star ratings
 3. Use Bootstrap's grid system to make sure the testimonials section is responsive
+# Later I put some different things on my github project like
+# Acceptance criteria
+1. User story 4 have a table of facts and fictional monsters
+2. User story 3 A booking form for watching films
+3. User story 2 The main page features a table with different prices
+4. User story 1 The homepage features symbols for age ratings and what they mean
+5. User story 1 A list of films that are available with the relevent age ratings
+6. User story 1 Each official age rating symbol is matched with a monster at the stage of its life that represents the age of the people who are allowed to see it.
+# Task
+1. User story 4 Make a table of information about fictional monsters
+2. User story 3 Make a form for booking films to watch
+3. User story 3 Make a table using html tags to show different prices
+4. User story 1 Integrate some age rating symbols using image tags to the website
+5. User story 1 Make an unordered list of films next to symbols for there age rating
+6. User story 1 Source some images of different aged monster to use with image tags
 # Scope Challenge
 Feature|Difficulty
 ---|---
@@ -68,6 +84,22 @@ footer and tables lists. Release 2 total difficulty points 3
 form, nav bar. Release 3 total difficulty points 5
 ### Final Total
 Product Release total difficulty points 12
+# Structure Plane
+## Wireframes made in penpot
+* Apart from my home page which dosen't use boostrap grids all of my 3 other pages have the same wireframes
+because they all have the same structure apart from which background image, text and video they have
+they are the same
+* Apart from my home page my other pages are responsive when you change the size of the screen the
+tables stack on top of eachother using a boostrap grid system
+* while using penpot I had the issue of exporting the wireframes I had made which didn't work very well
+because I only seemed to be able to download one file even though there were 5 so I had to move each one to the top
+of the list before exporting it. Later markdown was unable to show any of my PDFs so I used snipping tool to get the wireframe
+images that I actually used in my readme file which the links to are below 
+* [Wireframe Small Page](assets/images/images-for-readme/Small-wireframe.PNG)
+* [Wireframe Medium Page](assets/images/images-for-readme/Medium-wireframe.PNG)
+* [Wireframe Large Page](assets/images/images-for-readme/Large-wireframe.PNG)
+* [Wireframe Extra Large page](assets/images/images-for-readme/Extra-Large-wireframe.PNG)
+* [Wireframe home page](assets/images/images-for-readme/Home-wireframe.PNG)
 ### notes maybe add buttons that match the color scheme of a page when you hover over them and when you don't
 # External sources
 # From bootstrap
@@ -107,30 +139,70 @@ The navbar button wasn't working and when you click on it nothing happens the is
 link from bootstrap that goes at the end of your code just before the closing body tag.
 ---
 ![image of navbar button having dropped down like it is meant to](assets/images/images-for-readme/error1.PNG "navbar button")
+---
 The issue here was the navbar appears on the side of the screen instead of the top to fix this I added the fixed-top class to the
 nav tag
 ---
 ![image of side navbar](assets/images/images-for-readme/error2.PNG)
+---
 Here you can see the newer version with the navbar at the top
 ---
 ![image of fixed top navbar](assets/images/images-for-readme/error3.PNG)
+---
 Orignally the red background was on top of the footer so it looked like part of the footer was missing
 if I remember correctly I fixed this problem by adding the fixed-bottom class to the footer
 ---
 ![fixed footer](assets/images/images-for-readme/error4.PNG)
+---
 This is a failed attempt to fix the same problem
 ---
 ![broken footer](assets/images/images-for-readme/error5.PNG)
+---
 This is a image of a fixed url that had ../assets at the start instead of ../images
 ---
 ![fixed url](assets/images/images-for-readme/error6.PNG)
+---
 For a while when I was trying to use an iframe to embed a youtube video I got an error 153
 however when you look at the page from github as a deployed site the video/iframe works
+---
 ![working video](assets/images/images-for-readme/error7.PNG)
-![](assets/images/images-for-readme/error8.PNG)
-![](assets/images/images-for-readme/error9.PNG)
-![](assets/images/images-for-readme/error10.PNG)
-![](assets/images/images-for-readme/error11.PNG)
-![](assets/images/images-for-readme/error12.PNG)
-![](assets/images/images-for-readme/error13.PNG)
+---
+Orginally when the header position was fixed it moved down with the navbar which I thought looked wrong
+I also tried a postion relative but that brought back the problem with the footer so in the end I used
+a position absolute which works
+---
+![working header position](assets/images/images-for-readme/error8.PNG)
+---
+When I first made the table for age and height the columns were to close together so I
+tested a style with extra width in the end I made a class called table-1 with set the width
+to 150 solving the isssue so that the is enough distence between the columns so that you can read the text
+---
+![table styling](assets/images/images-for-readme/error9.PNG)
+---
+This is what the table looked like after it had been styled
+---
+![table with extra width](assets/images/images-for-readme/error10.PNG)
+---
+When I first did this class I forgot a few selectors like div tr
+---
+![table class with the right selectors](assets/images/images-for-readme/error11.PNG)
+---
+First I tired to import a button from boostrap
+---
+![button tag](assets/images/images-for-readme/error12.PNG)
+---
+I needed a link from the book now button to the booking-form page but the a link made the text
+on the button blue and highlighted
+---
+![button with a tag and highlighted blue text](assets/images/images-for-readme/error13.PNG)
+---
+I tried making my own button but it took up the whole screen so I scraped it
+---
 ![](assets/images/images-for-readme/error14.PNG)
+---
+I changed my button so that the button tag was inside an a tag instead of it being the other way around
+this solved the issue of th whole button going white when you hovered over the very edge (when you hover over the
+text the text goes black so you can still see it) thi might be because I had some styles for the a and button tag 
+that were pretty much the same and the bootstrap was overwriting the button tag class but not the a tag so things only 
+chnaged while you hover over the a tag which just has text
+![a and button tags in the right order](assets/images/images-for-readme/error15.PNG)

@@ -63,15 +63,15 @@ a:hover{
 }
 .padding3{
     padding-top:200px;
-    padding-bottom:200px;
-    border-bottom:100px;
-    min-height: 1000px;
+    padding-bottom:300px;
+    border-bottom:200px;
+    min-height: 1100px;
     min-width: 400px;
 }
 .table-1{
     background-color: var(--background-color1);
     color:var(--text-color1);
-    min-width: 800px;
+    min-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
