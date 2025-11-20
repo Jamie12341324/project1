@@ -30,6 +30,12 @@
 #rodan-page-back-img{
     background-image: url(../images/images-for-html/rodan-1280-x-882-mkjzoe6324kfao20.webp);
 }
+#form-page-back-img{
+    background-image: url(../images/images-for-html/godzilla-4k-ocean.jpg);
+}
+#success-page-back-img{
+    background-image: url(../images/images-for-html/age-rating-little-monsters.png);
+}
 .center-iframe{
     display:block;
     margin: 0 auto;
@@ -80,6 +86,14 @@ a:hover{
     width:100%;
 }
 #form-box{
+    width:30%;
+    margin-left:100px;
+    background-color: rgba(0,0,0,0.5);
+    color:var(--text-color1);
+}
+#form-box2{
+    margin-top:4rem;
+    padding:50px;
     width:30%;
     margin-left:100px;
     background-color: rgba(0,0,0,0.5);

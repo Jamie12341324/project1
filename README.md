@@ -259,6 +259,7 @@ These are the issues I got when I put my booking-form.html page into html valida
 ![form with no white spacing](assets/images/images-for-readme/booking-forn-validator1.PNG)
 Here there was the issue with the random / which has now been removed. The other six issues are pretty much the same issue were I incorrectly used white space on a label id but 3 times for input tags and 3 times for label tags.
 ---
+My success page had no errors when I put through the html validator
 # css validator
 The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
