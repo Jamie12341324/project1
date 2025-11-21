@@ -263,6 +263,33 @@ My success page had no errors when I put through the html validator
 # css validator
 The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
+# Testing the finshed site
+* Test 1 is the navbar and footer stick to the top and bottom when you move the screen which works
+* Test 2 the content is positions so the footer and navbar don't stop you seeing it which it does
+* Test 3 you can play the videos on the godzilla, index/home, rodan and king ghidorah pages which works
+* Test 4 the text is visable and the text stands out as white on mostly dark backgrounds
+![Top of the home page](assets/images/images-for-readme/Final-index-page-testing1.PNG)
+![Bottom of the home page](assets/images/images-for-readme/Final-index-page-testing2.PNG)
+![Top of the godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2.PNG)
+---
+* Test 5 the tables on the godzilla, king ghidorah and rodan pages are reponsive so they stack when the screen is to small to see them all at once
+here we have images of the tables each at 1/6, 1/3, 1/2 and 1/1 of the full screen for sizes xl lg md and default
+which could represent viewing on desktop tablet and mobile which has seemed to work in the images below
+---
+![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid.PNG)
+![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid2.PNG)
+![resized godzilla page](assets/images/images-for-readme/Final-godzilla-page-testing2-grid3.PNG)
+* Test 6 the background images fill the avaliable space and are behind the main content which I think is true 
+for all the pages
+![king ghidorah page](assets/images/images-for-readme/Final-king-ghidorah-page-testing1.PNG)
+![rodan page](assets/images/images-for-readme/Final-rodan-page-testing1.PNG)
+* Test 7 the form has all fields required before any information can be submited which is true
+![form page](assets/images/images-for-readme/Final-form-page-testing2.PNG)
+* Test 8 once the form is correctly submited the user is taken to a success page to show everything has worked 
+which it does
+![form success page](assets/images/images-for-readme/Final-success-page-testing2.PNG)
+
+
 Deployment
 explain that you delpoyed to github page
 how to make a clone fork
