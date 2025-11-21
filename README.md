@@ -288,7 +288,8 @@ for all the pages
 * Test 8 once the form is correctly submited the user is taken to a success page to show everything has worked 
 which it does
 ![form success page](assets/images/images-for-readme/Final-success-page-testing2.PNG)
-
+* Test 9 the site has a custom 404 error pag whcih you can see in the image below
+![Error 404 page](assets/images/images-for-readme/Error-page-testing.PNG)
 
 Deployment
 explain that you delpoyed to github page
