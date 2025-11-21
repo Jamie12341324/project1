@@ -320,3 +320,5 @@ went to setting in github and selcted pages.
 Then I selcted the main branch to delpoy from 
 and clicked save. Then I waited for my url to appear.
 Some help was obtained from the guide mention above.
+# Bugs
+The booking form dosen't display on a phone properly and that would be the next thing to fix 
