@@ -137,6 +137,8 @@ images that I actually used in my readme file which the links to are below
 * [centering a table example from w3schools](https://www.w3schools.com/howto/howto_css_table_center.asp)
 # From geeks for geeks website
 * [how to have a button with a link wihtout having the button as a child of the a tag](https://www.geeksforgeeks.org/html/how-to-create-an-html-button-that-acts-like-a-link/)
+# From icon-icons
+* [link to icon site](https://icon-icons.com/search/icons/letter-a)
 # Debugging
 # problem 1
 The navbar button wasn't working and when you click on it nothing happens the issue was I was missing a 
@@ -263,6 +265,9 @@ My success page had no errors when I put through the html validator
 # css validator
 The first time I put my css into the validator it said there were no errors so I don't have any issue fixing for it.
 ---
+# Lighthouse
+* ![Lighthouse report](assets/images/images-for-readme/light-house.PNG)
+* Lighthouse was used to generate a report but I didn't have enough time to go through it
 # Testing the finshed site
 * Test 1 is the navbar and footer stick to the top and bottom when you move the screen which works
 * Test 2 the content is positions so the footer and navbar don't stop you seeing it which it does
